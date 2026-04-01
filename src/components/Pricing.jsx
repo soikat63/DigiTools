@@ -81,7 +81,7 @@ const Pricing = () => {
               {/* Badge */}
               {plan.badge && (
                 <div className="absolute -top-3.5 left-1/2 -translate-x-1/2">
-                  <span className="bg-orange-400 text-white text-xs font-bold px-4 py-1.5 rounded-full shadow">
+                  <span className="bg-[#FEF3C6] text-[#BB4D00] text-xs font-bold px-4 py-1.5 rounded-full shadow">
                     {plan.badge}
                   </span>
                 </div>
