@@ -1,7 +1,7 @@
 import React from "react";
 import GradientButton from "./Ui/Button/GradientButton";
 import BannerImage from "../assets/Banner.png";
-import ColorLayer from "../assets/colorLayer.png";
+import ColorLayer from "../assets/ColorLayer.png";
 import { Play } from "lucide-react";
 
 const Banner = () => {
