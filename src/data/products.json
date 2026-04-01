@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "ResumeAI Pro",
+    "description": "Build stunning resumes with AI-powered suggestions and ATS optimization to land your dream job faster.",
+    "price": 12,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF", "AI suggestions", "Cover letter builder"],
+    "icon": "📄"
+  },
+  {
+    "id": 2,
+    "name": "LogoCraft Studio",
+    "description": "Design professional logos in minutes with AI-powered tools and a massive asset library.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "bestseller",
+    "features": ["500+ icons library", "Vector export", "Brand kit", "Unlimited revisions", "Commercial license"],
+    "icon": "🎨"
+  },
+  {
+    "id": 3,
+    "name": "SocialPilot X",
+    "description": "Schedule, analyze and grow your social media presence across all major platforms effortlessly.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["10 social accounts", "Post scheduler", "Analytics dashboard", "AI caption writer", "Hashtag generator"],
+    "icon": "📱"
+  },
+  {
+    "id": 4,
+    "name": "InvoiceFlow",
+    "description": "Streamline your billing process with smart invoicing, automatic reminders and payment tracking.",
+    "price": 199,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "bestseller",
+    "features": ["Unlimited invoices", "Auto reminders", "Multi-currency", "Tax reports", "Client portal"],
+    "icon": "💳"
+  },
+  {
+    "id": 5,
+    "name": "VideoSpark AI",
+    "description": "Transform your scripts into engaging videos with AI avatars, voiceovers and auto-subtitles.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["AI avatars", "120+ languages", "Auto subtitles", "Brand watermark", "1080p export"],
+    "icon": "🎬"
+  },
+  {
+    "id": 6,
+    "name": "SEO Radar",
+    "description": "Dominate search rankings with deep keyword research, backlink analysis and competitor tracking.",
+    "price": 59,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Keyword explorer", "Backlink checker", "Site audit", "Rank tracker", "Competitor spy"],
+    "icon": "🔍"
+  },
+  {
+    "id": 7,
+    "name": "ChatBot Builder",
+    "description": "Deploy intelligent AI chatbots on your website in minutes. No coding skills required.",
+    "price": 299,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Drag & drop builder", "GPT-4 powered", "Custom training", "Multi-platform", "Analytics"],
+    "icon": "🤖"
+  },
+  {
+    "id": 8,
+    "name": "EmailForge",
+    "description": "Create beautiful email campaigns with AI copy, advanced segmentation and real-time analytics.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "bestseller",
+    "features": ["Drag & drop editor", "A/B testing", "Segmentation", "Automation flows", "Detailed reports"],
+    "icon": "📧"
+  },
+  {
+    "id": 9,
+    "name": "DesignVault",
+    "description": "Access millions of premium design assets — fonts, icons, mockups and illustrations instantly.",
+    "price": 149,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["5M+ assets", "Unlimited downloads", "Commercial use", "Regular updates", "Team sharing"],
+    "icon": "🖼️"
+  }
+]
