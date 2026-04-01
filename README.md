@@ -13,8 +13,9 @@
 [![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge)](https://daisyui.com)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
 [![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://fonts.google.com)
 
-[🚀 Live Demo](#) &nbsp;·&nbsp; [🐛 Report Bug](#) &nbsp;·&nbsp; [✨ Request Feature](#)
+[🚀 Live Demo](https://digi-tools-five.vercel.app/) &nbsp;·&nbsp; [📁 Repository](https://github.com/soikat63/DigiTools) &nbsp;·&nbsp; [🐛 Report Bug](https://github.com/soikat63/DigiTools/issues) &nbsp;·&nbsp; [✨ Request Feature](https://github.com/soikat63/DigiTools/issues)
 
 </div>
 
@@ -37,6 +38,8 @@
 | **DaisyUI** | 4 | Pre-built Tailwind UI components |
 | **React-Toastify** | 11 | Toast notifications |
 | **Lucide React** | 0.383 | Icon library |
+| **React Icons** | — | Additional icon sets |
+| **Google Fonts** | — | Custom typography |
 | **Vite** | 6 | Lightning-fast build tool |
 | **JavaScript** | ES6+ | Core programming language |
 | **JSON** | — | Local product data storage |
@@ -75,10 +78,10 @@ The entire layout adapts seamlessly across **mobile, tablet, and desktop**. The 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/digitools.git
+git clone https://github.com/soikat63/DigiTools.git
 
 # 2. Go into the project folder
-cd digitools
+cd DigiTools
 
 # 3. Install all dependencies
 npm install
@@ -99,7 +102,7 @@ npm run build
 ## 📁 Project Structure
 
 ```
-digitools/
+DigiTools/
 ├── src/
 │   ├── components/
 │   │   ├── Navbar.jsx          # Sticky responsive navbar with hamburger
@@ -139,8 +142,14 @@ digitools/
 
 <div align="center">
 
+**Soikat Islam Nirob**
+
+[![GitHub](https://img.shields.io/badge/GitHub-soikat63-181717?style=flat-square&logo=github)](https://github.com/soikat63)
+
+<br/>
+
 Made with ❤️ and lots of ☕
 
-**DigiTools** © 2025 — All rights reserved.
+**DigiTools** © 2025 Soikat Islam Nirob — All rights reserved.
 
 </div>
