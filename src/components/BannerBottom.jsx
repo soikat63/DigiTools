@@ -14,9 +14,11 @@ const BannerBottom = () => {
           {stats.map((stat, i) => (
             <div
               key={i}
-              className={`flex flex-col items-center 
-            md:${i === 1 ? "border-x border-white/30 px-6" : ""}
-            ${i !== stats.length - 1 ? "border-b border-white/30 pb-6 mb-6 md:border-b-0 md:pb-0 md:mb-0" : ""}
+              className={`
+            flex flex-col items-center 
+            border-b border-white/30 pb-6 mb-6 last:border-b-0 last:mb-0 
+            md:border-b-0 md:pb-0 md:mb-0
+            ${i === 1 ? "md:border-x md:border-white/30 md:px-6" : ""}
           `}
             >
               <h3 className="text-2xl md:text-6xl font-extrabold">
