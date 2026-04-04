@@ -8,14 +8,16 @@ const stats = [
 
 const BannerBottom = () => {
   return (
-    <section className="bg-gradient-to-r from-[#4F39F6] to-[#9514FA] py-15 ">
+    <section className="bg-gradient-to-r from-[#4F39F6] to-[#9514FA] py-15">
       <div className="max-w-7xl mx-auto">
-        <div className="grid grid-cols-3 gap-6 text-center text-white">
+        <div className="grid md:grid-cols-3 gap-6 text-center text-white">
           {stats.map((stat, i) => (
             <div
               key={i}
               className={`flex flex-col items-center 
-              ${i === 1 ? "border-x border-white/30 px-6" : ""}`}
+            md:${i === 1 ? "border-x border-white/30 px-6" : ""}
+            ${i !== stats.length - 1 ? "border-b border-white/30 pb-6 mb-6 md:border-b-0 md:pb-0 md:mb-0" : ""}
+          `}
             >
               <h3 className="text-2xl md:text-6xl font-extrabold">
                 {stat.value}
