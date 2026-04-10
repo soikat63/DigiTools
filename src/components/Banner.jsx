@@ -30,7 +30,7 @@ const Banner = () => {
             <div className="p-[1px] rounded-full bg-gradient-to-r from-[#4F39F6] to-[#9514FA] inline-block">
               <button className="flex items-center gap-2 bg-white hover:bg-gray-50 text-gray-700 font-semibold px-6 py-3 rounded-full transition-colors text-sm cursor-pointer">
                 <span>
-                  <Play />
+                  <Play className="text-[#4F39F6] " />
                 </span>
                 <span className=" text-[#4F39F6] font-bold text-base">
                   Watch Demo
